@@ -11,13 +11,6 @@ function rangeOfNumbers(startNum, endNum) {
 
 };
 
-
-// public void countUpAndDown(int start, int end) {
-//     System.out.println(start);
-//     if (end == start) return;
-//     countUpAndDown(start+1, end);
-//     System.out.println(start);
-// }
 console.log(rangeOfNumbers(1,5));
 console.log(rangeOfNumbers(6, 9));
 console.log(rangeOfNumbers(4, 4))
